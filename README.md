@@ -1,10 +1,10 @@
-# 📷 Outil de Contrôle Qualité Stéréo 3D
+# Outil de Contrôle Qualité Stéréo 3D
 Simulateur interactif développé en Python par une IA pour évaluer la qualité de la vision par IA. 
 L'outil simule mathématiquement un système de caméras et utilise la projection sténopé ainsi que la triangulation DLT (Direct Linear Transform) par SVD.
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 Vue 3D interactive : Représentation spatiale du pavé droit, des centres optiques et des cônes de vision des deux caméras.
 
 Projections 2D : Simulation réaliste de la vue des caméras 1 et 2 en temps réel.
@@ -17,12 +17,12 @@ Calcul d'erreurs : Retour immédiat sur l'écart entre la position réelle et la
 
 ---
 
-## 🛠️ Prérequis
+## Prérequis
 Le script repose uniquement sur les bibliothèques scientifiques standards de Python. Pour installer les dépendances : "pip install numpy matplotlib"
 
 ---
 
-## 🚀 Utilisation
+## Utilisation
 Lancez simplement le script via votre terminal ou autre : "python qualite_stereo_3d.py"
 
 Mode d'emploi de l'interface :
